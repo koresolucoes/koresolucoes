@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Conectar sistemas. Simplificar operações.</title>
+  <desc id="desc">Banner de Luciano Quiroz, Founder e CTO da Kore Soluções. Fundo azul-escuro, tipografia clara e desenho geométrico de sistemas conectados.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#304157" stroke-opacity=".2"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1600" height="420" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1600" height="420" fill="#101C2D"/>
+    <rect x="1040" width="560" height="420" fill="url(#grid)"/>
+    <rect x="0" y="0" width="8" height="420" fill="#91E7CD"/>
+    <path d="M1084 0V420" stroke="#304157"/>
+    <g font-family="Arial, Helvetica, sans-serif">
+      <text x="72" y="78" fill="#91E7CD" font-size="23" letter-spacing="3">SOFTWARE · AUTOMAÇÃO · INTEGRAÇÕES</text>
+      <text x="67" y="176" fill="#F5F4ED" font-size="76" font-weight="700" letter-spacing="-2">Conectar sistemas.</text>
+      <text x="67" y="265" fill="#F5F4ED" font-size="76" font-weight="700" letter-spacing="-2">Simplificar operações.</text>
+      <path d="M72 315H132" stroke="#91E7CD" stroke-width="3"/>
+      <text x="153" y="324" fill="#B9C7D6" font-size="25">Luciano Quiroz · Founder &amp; CTO</text>
+    </g>
+    <g stroke="#506B7E" stroke-width="2">
+      <path d="M1203 105H1326V174M1461 131V210H1391M1200 309H1326V245"/>
+      <path d="M1144 210H1261M1391 210H1542" stroke-dasharray="4 8"/>
+    </g>
+    <rect x="1149" y="64" width="108" height="82" rx="14" fill="#17293B" stroke="#506B7E" stroke-width="2"/>
+    <rect x="1407" y="90" width="108" height="82" rx="14" fill="#17293B" stroke="#506B7E" stroke-width="2"/>
+    <rect x="1146" y="268" width="108" height="82" rx="14" fill="#17293B" stroke="#506B7E" stroke-width="2"/>
+    <rect x="1261" y="155" width="130" height="110" rx="22" fill="#91E7CD"/>
+    <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+      <text x="1203" y="114" fill="#D4DFE7" font-size="24" font-weight="700">API</text>
+      <text x="1461" y="140" fill="#D4DFE7" font-size="24" font-weight="700">WEB</text>
+      <text x="1200" y="318" fill="#D4DFE7" font-size="24" font-weight="700">IA</text>
+      <text x="1326" y="221" fill="#101C2D" font-size="32" font-weight="700" letter-spacing="1">KORE</text>
+    </g>
+    <circle cx="1326" cy="105" r="5" fill="#91E7CD"/>
+    <circle cx="1461" cy="210" r="5" fill="#91E7CD"/>
+    <circle cx="1326" cy="309" r="5" fill="#91E7CD"/>
+    <path d="M1326 309H1470" stroke="#506B7E" stroke-width="2"/>
+    <circle cx="1470" cy="309" r="5" fill="#91E7CD"/>
+  </g>
+</svg>

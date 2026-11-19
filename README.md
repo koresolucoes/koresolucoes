@@ -5,57 +5,39 @@
 **Founder & CTO · Kore Soluções**  
 Belo Horizonte, MG · Português fluente · Espanhol nativo
 
-[Site da Kore Soluções](https://koresolucoes.com.br) · [LinkedIn](https://www.linkedin.com/in/lucianonqgutierrez) · [Projetos](#projetos-selecionados)
+Desenvolvo produtos web, automações e integrações para operações empresariais. Também atuo na implantação e no treinamento das equipes que usam essas soluções.
 
-Desenvolvo soluções web, automações e integrações para apoiar a operação de empresas. Minha atuação também inclui implantação e treinamento de equipes para usar essas soluções no dia a dia.
-
-## O que faço
-
-- **Automação e integrações** · Fluxos com n8n, APIs e ferramentas de atendimento
-- **Desenvolvimento web** · Interfaces e aplicações com TypeScript, React, Next.js e Angular
-- **Implantação e treinamento** · Configuração de ferramentas, adaptação de processos e capacitação de equipes
+[LinkedIn](https://www.linkedin.com/in/lucianonqgutierrez) · [Kore Soluções](https://koresolucoes.com.br)
 
 ## Projetos selecionados
 
-### 01 · DevTools Hub
-[Ver repositório →](https://github.com/koresolucoes/devtools-hub)
+### ChefOS · Gestão para restaurantes
 
-Ferramenta para análise de repositórios, com verificações por regras e geração de pipelines. O código inclui testes e cenários de referência para o analisador.
+Meu principal projeto. Reúne PDV, pedidos, cozinha, caixa e estoque. A arquitetura inclui backend modular, app Android nativo e um piloto de operação local com PostgreSQL.
 
-**React · TypeScript · Vite · Vitest**
+[Case técnico do ChefOS](chefos.md) · [Site do produto](https://chefos.online) · [Piloto Edge](https://github.com/koresolucoes/chefosEdge)
 
-### 02 · Kore Site
-[Ver repositório →](https://github.com/koresolucoes/koresite)
+### DevsHub · Ferramenta para desenvolvedores
 
-Projeto de site institucional e conteúdo educacional, com componentes reutilizáveis e configuração de publicação no GitHub Pages.
+Analisa repositórios, aplica regras de qualidade e gera configurações de CI. O repositório documenta a arquitetura e inclui comandos para testes e validação.
 
-**Next.js · React · TypeScript · Tailwind CSS**
+[Ver código e documentação](https://github.com/koresolucoes/devtools-hub)
 
-### 03 · Liga dos Botecos
-[Ver repositório →](https://github.com/koresolucoes/ligadosbotecos)
+### Femmea · PWA mobile-first
 
-Landing page com jogos interativos e formulário de lista de espera. Um projeto que reúne interface, interação e integração com dados.
+Aplicação para organizar uma jornada de inseminação com calendário, checklist persistente e autenticação. Usa Next.js, TypeScript e Supabase com políticas de acesso a dados.
 
-**Angular · TypeScript · Supabase**
-
-<sub>Os links levam ao código dos projetos. Consulte cada repositório para conhecer sua configuração, escopo e estágio de desenvolvimento.</sub>
+[Ver código e documentação](https://github.com/koresolucoes/Femmea)
 
 ## Experiência aplicada
 
-**Atendimento e automação para uma rede de academias**
-
-Projeto concluído de implantação e treinamento para atendimento por WhatsApp, com configuração por unidade. O trabalho envolveu n8n, Chatwoot, integrações com a Meta e recursos de IA com Gemini e OpenAI.
+Implantei uma operação de atendimento por WhatsApp para uma rede de academias, com configuração por unidade e treinamento das equipes. O projeto envolveu n8n, Chatwoot, APIs da Meta e integrações com Gemini e OpenAI.
 
 ## Formação e ferramentas
 
 **Engenharia de Software · Descomplica**  
-Graduação em andamento, atualmente no 2º período.
+Graduação em andamento.
 
-- **Automação e atendimento:** n8n, Chatwoot, WhatsApp e APIs da Meta
-- **Web:** TypeScript, JavaScript, React, Next.js e Angular
-- **Dados e IA:** Supabase, integrações com OpenAI e Gemini
-
----
-
-**Vamos conversar sobre um projeto?**  
-[Conheça a Kore Soluções](https://koresolucoes.com.br) ou [fale comigo no LinkedIn](https://www.linkedin.com/in/lucianonqgutierrez).
+- **Web e mobile** · TypeScript, React, Next.js, Angular, Kotlin e Jetpack Compose
+- **Backend e dados** · Node.js, APIs REST, PostgreSQL e Supabase
+- **Automação** · n8n, Chatwoot e WhatsApp Business
